@@ -1,0 +1,12 @@
+**/__pycache__/
+.env
+/src/final_ranking.csv
+/data/coin_price
+/data/coin_tweets
+/data/output
+/logs
+
+.flake8
+
+/env_crypto
+/info
