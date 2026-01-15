@@ -1,4 +1,4 @@
-# Crypto Cartel Pipeline
+# Crypto Tweets Pipeline
 
 ## Overview
 
