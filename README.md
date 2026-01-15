@@ -9,6 +9,8 @@ The Cryptocurrency Twitter Analysis project leverages social media data to predi
 - User credibility ranking
 - API development for seamless data access
 
+**Miro Workflow** [Link](https://miro.com/app/board/uXjVI_3EErI=/?share_link_id=539045772206)
+
 ## Features
 
 - **Tweet Analysis**: Extracts cryptocurrency mentions from tweets using Aho-Corasick algorithm
